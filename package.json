@@ -1,0 +1,15 @@
+{
+    "name": "strapi-provider-upload-s3",
+    "version": "1.0.0",
+    "description": "AWS S3 provider for strapi upload",
+    "keywords": [],
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"no tests yet\""
+    },
+    "dependencies": {
+      "aws-sdk": "2.1260.0",
+      "lodash": "4.17.21"
+    }
+  }
+  
